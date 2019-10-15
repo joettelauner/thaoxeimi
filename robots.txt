@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keitairaec.rangibora.com/sitemap.xml
